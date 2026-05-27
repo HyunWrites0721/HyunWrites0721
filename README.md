@@ -4,5 +4,5 @@ Nice to meet you guys.
 ## 🤔 Interests
 - Recommender System
 - Deep Learning
-- NLP
+- NLP, LLM
 - Data Analysis
