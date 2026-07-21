@@ -1,5 +1,5 @@
 # Hyun's Github
-Nice to meet you guys.
+Nice to meet you guys!
 
 ## 🤔 Interests
 - Recommender System
